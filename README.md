@@ -1,4 +1,4 @@
-Hi, I'm Albeiro Lozano.
+<h3>Hi, I'm Albeiro Lozano.</h3>
 - I am a Systems Engineer, focused on Fullstack web development.
 - I am currently working at CLAI PAYMENTS.
 - My forte is in the Javascript and Python programming languages that I use daily as an employee and use in personal projects.

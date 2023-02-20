@@ -1,4 +1,4 @@
-<div style="background-color: aqua; font-family: monospace;">
+<div>
 <h3 style="color:red">Hi, I'm Albeiro Lozano.</h3>
 <h6>- I am a Systems Engineer, focused on Fullstack web development.</h6>
 <h6>- I am currently working at CLAI PAYMENTS.</h6>
